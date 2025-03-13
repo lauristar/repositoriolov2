@@ -1,2 +1,0 @@
-Soy el fichero 1 modificado tras el primer commit
-cambio desde github
